@@ -1,0 +1,3 @@
+NL_OK = "OK"
+NL_PASSED = "PASSED"
+NL_ERROR = "ERROR"

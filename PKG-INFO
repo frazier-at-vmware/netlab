@@ -1,3 +1,36 @@
+Metadata-Version: 2.1
+Name: netlab
+Version: 22.4.0
+Summary: NETLAB+ VE SDK for Python
+Home-page: https://www.netdevgroup.com/
+License: MIT
+Keywords: netlab,development,netlab,ndg
+Author: Aaron Schif
+Author-email: aschif@netdevgroup.com
+Requires-Python: >=3.8,<4
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Utilities
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: importlib-metadata (>=4.13.0,<5.0.0)
+Requires-Dist: packaging (>=21.3,<22.0)
+Requires-Dist: tabulate (>=0.8,<0.9)
+Requires-Dist: typing-extensions (>=3.10.0,<4.0.0)
+Project-URL: NDG Products, https://www.netdevgroup.com/products/
+Description-Content-Type: text/markdown
+
 # OVERVIEW
 
 [![pipeline status](https://gitlab.netdevgroup.com/dev/netlab-ve-api-py/badges/master/pipeline.svg)](https://gitlab.netdevgroup.com/dev/netlab-ve-api-py/-/pipelines?scope=all&ref=master)
@@ -36,3 +69,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
 OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
